@@ -1,0 +1,36 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang=”vi-VN”>
+<head>
+    <title>Chạy đua xe điện, BMW 3-Series vẫn giữ lại bản chạy xăng</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Bài tập thực hành lập trình Web buổi 1 bài tập 1" />
+    <meta name="keywords" content="Lập trình Web cơ bản" />
+    <meta name="viewport" content="width=device-width" />
+    
+</head>
+<body>
+    <h1>Chạy đua xe điện, BMW 3-Series vẫn giữ lại bản chạy xăng</h1>
+    <h3>BMW 3-Series đời mới vẫn sẽ có bản chạy động cơ, nhưng sẽ ra mắt muộn hơn thường lệ khá nhiều.</h3>
+
+
+    <p>Thế hệ BMW 3-Series hiện tại là thế hệ thứ 7 ra mắt vào năm 2018. Nếu tính theo vòng đời chuẩn của xe mới là 7 năm, BMW 3-Series sẽ bước sang thế hệ thứ 8 vào năm 2025.</p>
+    <p>Tuy nhiên, vào mốc thời gian trên sẽ chỉ có phiên bản thuần điện có tên i3 của 3-Series chào sân.</p>
+    <p>Thông tin này đã được xác nhận từ trước từ thương hiệu xứ Bavaria này.</p>
+    <p>Cho những khách hàng không hoặc chưa muốn chuyển đổi sang xe điện, họ sẽ phải chờ lâu hơn 2 năm để tiếp cận BMW 3-Series chạy xăng bản kế tiếp. Thông tin này được BMWblog hé lộ vào giữa tháng 9.</p>
+    <p>Ít nhất thì đây vẫn là tin vui với tập khách hàng phổ thông, khi BMW từ trước tới giờ luôn nhắc tới việc i3 sẽ thế chân 3-Series trong tương lai.</p>
+    <p>Vẫn theo nguồn tin tới từ Đức trên, khung gầm BMW 3-Series chạy xăng đời mới vẫn sẽ là loại CLAR đang được dùng bởi bản hiện hành. Điều này đồng nghĩa dòng xe này và bản thuần điện i3 không hề có điểm chung về kỹ thuật bởi i3 chạy khung gầm Neue Klasse hoàn toàn mới.</p>
+    <p>Thiết kế 2 bản này được cho là cũng khác nhau hoàn toàn khi i3 được BMW xác nhận "nhảy cóc" một thế hệ thiết kế và do đó phá cách hơn hẳn.</p>
+    <p>BMW hiện là một trong những thương hiệu lên tiếng ủng hộ động cơ đốt trong nhiều nhất trên thị trường. Thương hiệu xứ Bavaria tin rằng phân khúc này vẫn còn chỗ đứng vững cho tới ít nhất là cuối thập kỷ 2030. Việc hãng duy trì một bản BMW 3-Series chạy động cơ sẽ giúp doanh số thương hiệu này được duy trì.</p>
+    <p>Nhờ vậy, BMW gần như chắc chắn đảm bảo cho họ vị trí số 1 làng xe sang trong bối cảnh Mercedes-Benz đã từ bỏ đua doanh số để tối ưu lợi nhuận bằng các dòng xe nhóm trên.</p>
+    <div>
+        @RenderBody()
+    </div>
+
+</body>
+
+</html lang=”vi-VN”>
